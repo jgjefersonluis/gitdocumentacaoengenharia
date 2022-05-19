@@ -1,1 +1,1 @@
-# teste de api bibliotecas ou arquivo para documentações.
+# Teste de API - bibliotecas ou arquivo para documentações.
